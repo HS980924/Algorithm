@@ -30,11 +30,7 @@ ___
 이슈였음을 알려드립니다.
 ___  
 
-## 🎆 Daily Algorithm Progress  
-#### 🍔 진행방식
-    - 1주일에 2회 스터디 진행
-    - 기본적으로 BOJ 사용, 개인별 고난이도 문제있을시 공유가능
-    - 2회 문제풀이, 1회 솔루션 연구
-___ 
+## 🎆 Daily Algorithm Progress
+___
 ## 🏆 Personal Achievement  
 [![Solved.ac choihs0924](http://mazassumnida.wtf/api/v2/generate_badge?boj=choihs0924)](https://solved.ac/choihs0924/)
