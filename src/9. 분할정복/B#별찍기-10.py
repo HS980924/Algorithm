@@ -1,3 +1,7 @@
+# 2022.05.10(화)
+# 별 찍기 10 - 분할 정복
+# 문제링크: https://www.acmicpc.net/problem/2447
+
 import sys
 N = int(sys.stdin.readline())
 board = [[" " for i in range(N)] for _ in range(N)]

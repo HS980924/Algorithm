@@ -1,3 +1,7 @@
+# 2022.05.28(토)
+# 내려가기 - DP문제
+# 문제 링크 : https://www.acmicpc.net/problem/2096
+
 #maxDp = [[0 for _ in range(3)] for _ in range(N+1)]  메모리 초과
 #minDp = [[0 for _ in range(3)] for _ in range(N+1)]  메모리 초과
 import sys

@@ -1,3 +1,7 @@
+# 2022.05.24(화)
+# 상범빌딩 - BFS문제
+# 문제 링크 : https://www.acmicpc.net/problem/6593
+# 참고 링크 < https://chldkato.tistory.com/41 >    
 from collections import deque
 import sys
 
@@ -43,4 +47,4 @@ while True:
                     if building[i][j][k] == "S":
                         BFS(i,j,k)
         
-# 참고 링크 < https://chldkato.tistory.com/41 >      
+  

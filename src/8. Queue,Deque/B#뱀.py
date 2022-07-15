@@ -1,3 +1,7 @@
+# 2022.05.26(목)
+# 뱀 - Queue 문제
+# 문제 링크 : https://www.acmicpc.net/problem/3190
+
 N = int(input())
 loc_cnt = int(input())
 board = []
