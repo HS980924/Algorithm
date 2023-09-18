@@ -1,4 +1,4 @@
-# Upload BOJ Gold-5 math 14891번 톱니바퀴
+# Upload BOJ Gold-5 math 14891번 톱니바퀴 
 gears = [[]]
 
 for _ in range(4):
